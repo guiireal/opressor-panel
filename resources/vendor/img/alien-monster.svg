@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72"
+    preserveAspectRatio="xMidYMid meet" viewBox="0 0 72 72"
+    style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);">
+    <g fill="#87CB16">
+        <path d="M10 21v14h3v3h3v7h6v6h6v-6h16v6h6v-6h6v-7h3v-3h3V20h-6v5h-7v-5h-4v-6h-6v6h-7v-6h-6v6h-4v5h-6v-5h-6z" />
+        <path d="M16 51h6v6h-6z" />
+        <path d="M50 51h6v6h-6z" />
+    </g>
+    <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <path d="M25.175 31h3.6v6h-3.6z" fill="#000" />
+        <path fill="none" d="M22 45h-6v-6" />
+        <path fill="none" d="M22.583 25v-5H26" />
+        <path fill="none" d="M48.708 25v-5h-3.416" />
+        <path fill="none" d="M13 35h-3V20h6v15" />
+        <path fill="none" d="M56 35V20h6v15h-3" />
+        <path fill="none" d="M26 20v-6h6v6" />
+        <path fill="none" d="M39 20v-6h6v6" />
+        <path fill="none" d="M16 35h3v3h-6v-3" />
+        <path fill="none" d="M59 35v3h-6v-3h3" />
+        <path fill="none" d="M16 51h6v6h-6z" />
+        <path fill="none" d="M50 51h6v6h-6z" />
+        <path fill="none" d="M28 45v6h-6v-6" />
+        <path fill="none" d="M50 45h6v-6" />
+        <path fill="none" d="M44 45v6h6v-6" />
+        <path d="M43.425 31h3.6v6h-3.6z" fill="#000" />
+        <path fill="none" d="M44 45h0z" />
+        <path fill="none" d="M39 20h0z" />
+        <path fill="none" d="M16 25h0z" />
+        <path fill="none" d="M49 25h0z" />
+        <path fill="none" d="M28 45h16" />
+        <path fill="none" d="M32 20h7" />
+        <path fill="none" d="M16 25h6" />
+        <path fill="none" d="M49 25h7" />
+    </g>
+    <rect x="0" y="0" width="72" height="72" fill="rgba(0, 0, 0, 0)" />
+</svg>
